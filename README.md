@@ -2,13 +2,13 @@
 
 ## Zhiyuan Liu - @ocsxxi
 
-- 🔭 I’m currently working on NPEE
+<!-- - 🔭 I’m currently working on NPEE -->
 
-- 🌱 I’m currently learning React, CV, ML and so on
+- 🌱 I’m currently learning React, Gatsby, Astro, CV, ML and others
 
 - 📫 How to reach me:
-  - 📰blog: [ocsxxi.github.io](https://ocsxxi.github.io) 
-  - 🛰wechat: ocsxxi
+  - 📰blog: [ocsxxi.top](https://ocsxxi.top)
+  - 📧mail: [ocsxxi@foxmail.com](mailto:ocsxxi@foxmail.com)
  <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
